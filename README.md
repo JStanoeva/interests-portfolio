@@ -1,12 +1,44 @@
-# React + Vite
+# Tora Blaze — Personal Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to my personal portfolio!  
+I’m **Tora Blaze** — a front-end developer, soprano in training, and proud servant of a very floofy cat named Fuffin. 🐾  
+This site showcases my work, my music, and the wonderful cheese-and-cat-themed world I’ve built.
 
-Currently, two official plugins are available:
+## ✨ Features
+- **Responsive design** built with **React + Vite + Tailwind CSS**
+- Playful **cheese-themed UI** with pastel tones and cozy aesthetics
+- Smooth **Framer Motion** animations
+- Custom illustrations created with AI (Sora), matching the site’s palette
+- Sections for:
+  - 🧀 Projects
+  - 🎵 Music (with playable tracks from Stellarmelt)
+  - 🐱 Cats & Friends
+  - 📬 Contact
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🛠 Tech Stack
+- **React**
+- **Vite**
+- **Tailwind CSS**
+- **Framer Motion**
+- **lucide-react** icons
 
-## Expanding the ESLint configuration
+## 🚀 Running Locally
+```bash
+# Clone the repo
+git clone https://github.com/JStanoeva/interests-portfolio.git
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+# Navigate to project folder
+cd interests-portfolio
+
+# Install dependencies
+npm install
+
+# Start development server
+npm run dev
+```
+
+## 📜 License
+This project is open source under the MIT License.
+
+
+**💛 Designed & built with love (and cheese) by Tora Blaze** 👑 Queen of the Cheese Republic
