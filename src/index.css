@@ -1,1 +1,40 @@
 @import "tailwindcss";
+
+::selection {
+  background-color: #f6ad55; /* warm amber cheese */
+  color: #1f2937; /* slate-800 text */
+}
+
+/* For Chrome, Edge, Safari */
+::-webkit-scrollbar {
+  width: 12px;
+}
+
+::-webkit-scrollbar-track {
+  background: #fef9c3; /* light cheese */
+}
+
+::-webkit-scrollbar-thumb {
+  background-color: #f6ad55; /* amber cheese */
+  border-radius: 20px;
+  border: 3px solid #fef9c3; /* match track */
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background-color: #d97706; /* darker cheddar on hover */
+}
+
+/* For Firefox */
+* {
+  scrollbar-width: auto;
+  scrollbar-color: #f6ad55 #fef9c3;
+}
+
+body {
+  cursor: url("/cheese-cursor.png") 2 2, auto;
+}
+
+a,
+button {
+  cursor: url("/cheese-cursor.png") 2 2, pointer;
+}
