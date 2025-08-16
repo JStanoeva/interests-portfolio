@@ -52,11 +52,11 @@ const projects = [
     href: "https://jstanoeva.github.io/glimmerwood-dash/",
   },
   {
-    title: "The Cheese Lab",
+    title: "Stellarmelt",
     blurb:
-      "First React project—component playground for cheesy widgets, cards, and whimsical micro-interactions.",
-    tags: ["React", "Tailwind CSS", "Vercel"],
-    href: "https://the-cheese-lab.vercel.app/",
+      "A minimal, elegant, glassmorphism-themed landing page for the cosmic rock band Stellarmelt. Crafted with TypeScript, React, and lots of love.",
+    tags: ["React", "TypeScript", "Vercel"],
+    href: "https://stellarmelt.vercel.app/",
   },
 ];
 
