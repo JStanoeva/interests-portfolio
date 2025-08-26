@@ -47,14 +47,14 @@ const projects = [
   {
     title: "Glimmerwood Dash",
     blurb:
-      "Endless runner browser game with magical forests and glowy UI. Built in JavaScript (p5.js), HTML, and CSS. Warning: mildly addictive.",
-    tags: ["p5.js", "CSS", "HTML"],
-    href: "https://jstanoeva.github.io/glimmerwood-dash/",
+      "Endless runner browser game with magical forests and glowy UI. Built in React (TypeScript), Tailwind CSS, and HTML5 Canvas. Warning: mildly addictive.",
+    tags: ["Canvas API", "React", "Tailwind CSS"],
+    href: "https://glimmerwood-dash.vercel.app/",
   },
   {
     title: "Stellarmelt",
     blurb:
-      "A minimal, elegant, glassmorphism-themed landing page for the cosmic rock band Stellarmelt. Crafted with TypeScript, React, and lots of love.",
+      "A minimal, elegant, glassmorphism-themed landing page for the cosmic rock band Stellarmelt. Crafted with React (TypeScript), Tailwind CSS, and lots of love.",
     tags: ["React", "TypeScript", "Vercel"],
     href: "https://stellarmelt.vercel.app/",
   },
